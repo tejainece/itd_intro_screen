@@ -1,0 +1,10 @@
+name: itd_intro_screen
+description: Introduction screen widget for Flutter apps
+version: 0.0.1
+homepage: https://github.com/tejainece/itd_flutter_indicator
+author: Ravi Teja Gudapati <tejainece@gmail.com>
+
+dependencies:
+  flutter:
+    sdk: flutter
+  itd_flutter_indicator: ^0.0.1
