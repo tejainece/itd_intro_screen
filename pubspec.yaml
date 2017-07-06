@@ -4,6 +4,9 @@ version: 0.0.1
 homepage: https://github.com/tejainece/itd_flutter_indicator
 author: Ravi Teja Gudapati <tejainece@gmail.com>
 
+environment:
+  sdk: '>=1.20.1 <2.0.0'
+
 dependencies:
   flutter:
     sdk: flutter
